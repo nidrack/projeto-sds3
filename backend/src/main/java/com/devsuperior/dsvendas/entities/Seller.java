@@ -30,6 +30,7 @@ public class Seller {
 		this.id = id;
 		this.name = name;
 	}
+	
 
 	public Long getId() {
 		return id;
@@ -45,6 +46,10 @@ public class Seller {
 
 	public void setName(String name) {
 		this.name = name;
+	}
+
+	public List<Sale> getSales() {
+		return sales;
 	}
 	
 	
