@@ -1,9 +1,11 @@
 Projeto desenvolvido na semana Spring React promovido pela escola DevSuperior
 
 Este projeto consta na construção de um relatório completo de vendas com a utilização de:
-Java e Spring Framework para backend;
-React para frontend;
-Postgres para database;
+Java;
+Spring Framework
+React;
+Postgres;
+Postman;
 
 O database está hospedado no Heroku.
 
